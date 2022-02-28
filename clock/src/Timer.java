@@ -6,6 +6,7 @@ public class Timer {
     static Scanner console = new Scanner(System.in);
 public static void main(String args[]) {
     
+        // Declare and instantiate myClock and yourClock
     Clock myClock = new Clock(5, 4, 30);
     Clock yourClock = new Clock();
     
